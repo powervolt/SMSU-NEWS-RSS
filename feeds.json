@@ -1,0 +1,13 @@
+{
+  "feeds": [
+    {
+      "name": "SMSU News",
+      "url": "http://www.smsu.edu/today/smsutodayfeed.xml"
+    },
+    {
+      "name": "Marshall MN News",
+      "url": "http://marshallindependent.com/page/syndrss.front/headline.xml"
+    }
+  ],
+  "version": 0.1
+}
