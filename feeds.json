@@ -5,9 +5,13 @@
       "url": "http://www.smsu.edu/today/smsutodayfeed.xml"
     },
     {
-      "name": "Marshall MN News",
+      "name": "Marshall News",
       "url": "http://marshallindependent.com/page/syndrss.front/headline.xml"
-    }
+    },
+    {
+      "name": "SMSU Sports",
+      "url": "http://www.smsumustangs.com/rss.aspx"
+	}
   ],
   "version": 0.1
 }
