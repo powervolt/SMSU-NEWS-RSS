@@ -1,15 +1,15 @@
 {
   "feeds": [
     {
-      "name": "SMSU News",
+      "name": "SMSU Campus",
       "url": "http://www.smsu.edu/today/smsutodayfeed.xml"
     },
     {
-      "name": "Marshall News",
+      "name": "Marshall Independent",
       "url": "http://marshallindependent.com/page/syndrss.front/headline.xml"
     },
     {
-      "name": "SMSU Sports",
+      "name": "SMSU Sports Top Stories",
       "url": "http://www.smsumustangs.com/rss.aspx?path=football"
 	}
   ],
